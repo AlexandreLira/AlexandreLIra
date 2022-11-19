@@ -1,6 +1,5 @@
 ### Hi! me chamo Alexandre 👋
 
-- 🔭 Atualmente trabalho como desenvolvedor front-end na <a href="https://www.linkedin.com/company/pontogo/">PontoGo</a>
 - 📊 Sou um entusiasta do mercado financeiro e busco sempre criar soluções para finanças em geral
 
 <div>
