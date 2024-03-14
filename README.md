@@ -4,7 +4,6 @@ I’m a Software Engineer. 🚀
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
-🌎 Front-end Web with Reactjs  
 🛠️ Typescript  
 🧰 And more...  
 
